@@ -1,1 +1,7 @@
-ABOUT US
+For decades, Carl Cook fought crime in the city of New Caliburn as the superhero Piecemaker. With the power to disassemble most everything around him, Carl was very good at taking things apart; less so at putting them back together. One divorce and an alienated daughter later, he realized the toll heroing had taken. In an attempt to move on and take charge of his life, Carl hung up the cape and opened Cook’s Deli.
+ 
+But things are never that simple in the superhero capital of the world. Cook’s Deli has a front-row seat to the city’s superpowered exploits, from the exciting to the bizarre. A former sidekick discovers just how hard life is without a hero, a psychic rat goes on the warpath for another slice of rye, a D-list villain plots his revenge…these are just some of the adventures going on right in front of the deli counter. Carl may change the world, even more than he did in costume. Only now he does it one cold cut at a time.
+ 
+_The Deli Counter of Justice_ is a short story anthology exploring the world in and around Cook's Deli, edited by Arlo J. Wiley with Eric Sipple and Paul Smith. The first volume was released in November 2014 and features stories by Wiley, Sipple, Smith, Kitty Chandler, Thomas Dorton, Rahne Ehtar, Alyssa Herron, Amorak Huey, and C. Gayle Seaman, as well as an introduction by Mere Smith (_Angel_, _Rome_).
+ 
+In addition to keeping you apprised of the latest Deli updates--including future volumes and projects--we'll also be publishing brand new content on this website, expanding the world of New Caliburn one story at a time.
