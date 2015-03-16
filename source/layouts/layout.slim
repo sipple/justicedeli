@@ -15,8 +15,7 @@ html
     = partial "partials/header"
     .container
       .row
-        = partial "partials/sidebar"
-        div.col-lg-9.col-md-9
+        div.col-lg-9.col-md-9.col-lg-push-3.col-md-push-3
           - unless current_article.nil?
             h1
               = current_article.title
@@ -45,5 +44,6 @@ html
           hr
             p.text-center
               | 2015
-              = link_to "#{site_title}", "/"          
+              = link_to "#{site_title}", "/"
+        = partial "partials/sidebar"
     = javascript_include_tag  "all"

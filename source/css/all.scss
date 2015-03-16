@@ -7,6 +7,10 @@ body {
   margin-top: $marginTopBody;
 }
 
+a {
+  color: $delired;
+}
+
 .sidebar-image {
   width: 80%;
   margin: auto;
@@ -14,4 +18,12 @@ body {
 
 li.story {
   margin-bottom: .5em;
+}
+
+nav.navbar-inverse {
+  background-color: #333333;
+}
+
+.navbar-inverse .navbar-brand, .navbar-inverse .navbar-nav li a {
+  color: $delired;
 }
