@@ -170,7 +170,7 @@ end
 
 # ftp deployment configuration. 
 activate :deploy do |deploy|
-  deploy.method   = :ftp
+  deploy.method   = :rsync
   deploy.host     = 'saalonmuyo.com'
   deploy.path     = '/srv/www/justicedeli.com'
   deploy.user     = 'saalon'
