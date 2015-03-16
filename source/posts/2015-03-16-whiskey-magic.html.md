@@ -1,8 +1,8 @@
 ---
 title: Whiskey Magic
 date: 2015-03-16
+authors: Paul Smith
 tags: story, flash fiction, tommy, aegis, crashtest
-image_src: //placehold.it/900x200
 ---
 
 Apparently, magic whiskey smells like mud and Froot Loops. Robbie hadn’t tasted it yet. His older brother claimed he’d bartered with an old wizard up in Harren Mast for the whiskey, implying he’d paid some terrible mystical price for it. Robbie suspected he’d actually gotten it on the Internet. In any case, Dean said it would give them powers. Dean had always wanted to be a superhero. So, magic whiskey.

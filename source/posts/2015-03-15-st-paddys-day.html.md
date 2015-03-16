@@ -1,7 +1,9 @@
 ---
 title: St. Paddy's Day
 date: 2015-03-15
-tags: story, flash fiction, tabitha, the pixel
+category: story
+authors: Eric Sipple
+tags: tabitha, the pixel
 ---
 
 It was Tabitha’s third beer in less than an hour, and she still wasn’t buzzed. Why had she ordered beer, anyway? Anything would’ve been a better choice. Vodka. Whiskey. That gross-looking bacon moonshine in a mason jar the bartender kept forcing people to smell. But no, she had to go with green pissbeer because most of her paycheck got eaten by rent, and green pissbeer was on special. Tabitha was the queen of bad decisions.

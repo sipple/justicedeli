@@ -1,5 +1,9 @@
 .col-lg-3.col-md-3
   .well
+    h4 Get a Copy!
+    a href="http://www.amazon.com/Deli-Counter-Justice-Eric-Sipple/dp/1502528800/ref=tmm_pap_title_0?ie=UTF8&qid=1415151497&sr=1-1"
+      img src="images/cover-small.jpg" class="sidebar-image"
+  .well
     h4 Tags
     ul.list-unstyled
       - blog.tags.each do |tag, articles|
@@ -8,15 +12,3 @@
           |  (
           = articles.size
           | )
-  .well
-    h4 By year
-    ol
-      - blog.articles.group_by {|a| a.date.year }.each do |year, articles|
-        li
-          = link_to year, blog_year_path(year)
-          |  (
-          = articles.size
-          | )
-  .well
-    h4 Side Widget Well
-    p Bootstrap's default well for sidebar
