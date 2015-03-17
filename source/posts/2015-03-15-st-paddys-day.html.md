@@ -10,7 +10,7 @@ It was Tabitha’s third beer in less than an hour, and she still wasn’t buzze
 
 She reached for her wallet to see if she had enough for another drink, resting her left elbow on the bar for support as she did, and choked back a wail of pain. _Right. Still not healed_. She couldn’t even be angry at the nanoscopic jerks in her bloodstream for not getting her fixed up yet, not after the night they’d had. More victims of Tabitha’s shitty choices. She just _had_ to get St. Patrick’s Day off to patrol the Row, unable to resist the opportunity to pummel a few sloshed frat boys looking for trouble. Only tonight had turned into one of those “more than she bargained for” deals and now she was doing something she’d sworn she never would: spending St. Paddy’s Day in a bar that served green fucking beer.
 
-The night wasn’t looking up. Her wallet was empty save for a years-old losing raffle ticket. Tabitha was out of cash, nursing a shattered-into-dozens-of-bone-fragments arm, and was stone cold sober. All because what she thought was a simple gang of thieves knocking over an armored car was _her _crew. The one people’d been whispering fearfully about for weeks. Cadence, they called her.
+The night wasn’t looking up. Her wallet was empty save for a years-old losing raffle ticket. Tabitha was out of cash, nursing a shattered-into-dozens-of-bone-fragments arm, and was stone cold sober. All because what she thought was a simple gang of thieves knocking over an armored car was _her_ crew. The one people’d been whispering fearfully about for weeks. Cadence, they called her.
 
 “Hey, you, uh…you with the…um…hey.” 
 
@@ -32,7 +32,7 @@ The bartender dropped a glass of smoky liquid ass in front of Tabitha and swiped
 
 That’s when it hit her. Not the alcohol (she wasn’t that lucky) but _why_ she was sober. There was only one explanation. _Look, boys. I got my ass kicked and my arm is in pieces. Keep your hands off my booze_. The Pixels couldn’t be hungry. She’d nabbed three Italian hoagies from the deli while Dad was too busy with customers to know she was there. If her turncoat nanobot friends were eating her booze, they were doing it on purpose. _To hell with this_, Tabitha thought. Even her Pixels hated her.
 
-Things had been going so well, too. People knew who she was. Criminal types were afraid of her _before_ she broke their jaws. Tabitha had even stopped hating it when people called her The Pixel. Four awesome months living the dream, but apparently that’s all it had been. It was bound to happen eventually. She hadn’t gone up against anyone serious since her first night out. Tabitha had taken down her share of superpowered assholes, but no one _really _dangerous. This was the first challenge Tabitha’d faced in months, and here she was. Beaten to hell.
+Things had been going so well, too. People knew who she was. Criminal types were afraid of her _before_ she broke their jaws. Tabitha had even stopped hating it when people called her The Pixel. Four awesome months living the dream, but apparently that’s all it had been. It was bound to happen eventually. She hadn’t gone up against anyone serious since her first night out. Tabitha had taken down her share of superpowered assholes, but no one _really_ dangerous. This was the first challenge Tabitha’d faced in months, and here she was. Beaten to hell.
 
 God, did she wish she was drunk.
 
