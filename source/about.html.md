@@ -1,4 +1,4 @@
-# About _The Deli Counter of Justice_
+# About The Deli Counter of Justice
 
 For decades, Carl Cook fought crime in the city of New Caliburn as the superhero Piecemaker. With the power to disassemble most everything around him, Carl was very good at taking things apart; less so at putting them back together. One divorce and an alienated daughter later, he realized the toll heroing had taken. In an attempt to move on and take charge of his life, Carl hung up the cape and opened Cook’s Deli.
  
