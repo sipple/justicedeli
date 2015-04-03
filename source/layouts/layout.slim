@@ -21,14 +21,16 @@ html
             - unless current_article.nil?
               h1
                 = current_article.title
-              - current_article.tags.each do |tag|
-                small.label.label-default
-                  = tag
+              h4
+                = "by #{current_article.metadata[:page]['authors']}"
               hr
               p
                 span.glyphicon.glyphicon-time
-                |  Posted on
+                |  Posted on&nbsp;
                 = current_article.date.strftime('%b %e')
+              - current_article.tags.each do |tag|
+                small.label.label-default
+                  = tag
               hr
               - if current_article.data.image_src
                 img.img-responsive src=current_article.data.image_src
