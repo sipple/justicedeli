@@ -18,7 +18,10 @@ h2 New Stories, Fresh From the Deli Counter
   - if article.data.image_src
     img.img-responsive src=article.data.image_src
     hr
-  = article.summary(nil)
+  = article.summary(250)
+
+  h3
+    a href="#{article.url}" Keep reading...
   hr
   p
     - article.tags.each do |tag|
