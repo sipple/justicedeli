@@ -7,6 +7,7 @@ gem "middleman-blog", "~> 3.5.1"
 gem "middleman-target", "~> 0.0.6"
 gem "middleman-deploy", "~> 0.1.4"
 gem 'middleman-blog-authors', '~> 0.0.1'
+gem "middleman-favicon-maker", "~> 3.7"
 
 # Live-reloading plugin
 gem "middleman-livereload", "~> 3.1.0"
